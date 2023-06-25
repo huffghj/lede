@@ -102,7 +102,6 @@ jobs:
           # CONFIG_PACKAGE_kmod-usb2-pci=y
           # CONFIG_PACKAGE_kmod-usb3=y
           # CONFIG_PACKAGE_kmod-usb-core=y
-	  # CONFIG_PACKAGE_kmod-usb-core=y
 	  # CONFIG_PACKAGE_kmod-usb-net=y
 	  # CONFIG_PACKAGE_kmod-usb-net-aqc111=y
 	  # CONFIG_PACKAGE_kmod-usb-net-rtl8150=y
